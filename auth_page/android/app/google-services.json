@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1096168203308",
+    "project_id": "auth-page-fb580",
+    "storage_bucket": "auth-page-fb580.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1096168203308:android:a457d2b63e064be2a39d89",
+        "android_client_info": {
+          "package_name": "com.example.auth_page"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1096168203308-fa9h7dc5gppdk2iv6pd4d27mhq83kp3l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCLh9vUhWAq0T8QirXulljZkm0lCiJCX_A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1096168203308-fa9h7dc5gppdk2iv6pd4d27mhq83kp3l.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
